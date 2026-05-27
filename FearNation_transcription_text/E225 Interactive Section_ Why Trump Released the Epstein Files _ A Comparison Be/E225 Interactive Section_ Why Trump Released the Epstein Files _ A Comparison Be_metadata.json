@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "f-5jHceFfWs",
+    "title": "E225 Interactive Section: Why Trump Released the Epstein Files / A Comparison Between the America...",
+    "url": "https://www.youtube.com/watch?v=f-5jHceFfWs",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E225 Interactive Section: Why Trump Released the Epstein Files / A Comparison Between the America...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "57:58",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E225 Interactive Section_ Why Trump Released the Epstein Files _ A Comparison Be",
+    "file_stem": "E225 Interactive Section_ Why Trump Released the Epstein Files _ A Comparison Be"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:51:12",
+  "download": {
+    "id": "f-5jHceFfWs",
+    "title": "E225互动部分: 特朗普为何要公布爱泼斯坦档案 / 美国右翼与欧洲右翼的对比 / 爱泼斯坦档案对未来选举的影响",
+    "webpage_url": "https://www.youtube.com/watch?v=f-5jHceFfWs",
+    "duration": 3477,
+    "upload_date": "20260204",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E225 Interactive Section_ Why Trump Released the Epstein Files _ A Comparison Be\\E225 Interactive Section_ Why Trump Released the Epstein Files _ A Comparison Be_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3477.184,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 121,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:58:18"
+}

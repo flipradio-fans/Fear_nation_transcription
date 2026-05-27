@@ -1,0 +1,32 @@
+{
+  "source": {
+    "video_id": "qn-5UEtjqxM",
+    "title": "E212互动部分: 中国人是否应该接受外国介入台海 / 中国对台政策的既要又要还要 / 中国能填补美国的全球领导力真空吗 / 中国盟友和台湾盟友的区别",
+    "url": "https://www.youtube.com/watch?v=qn-5UEtjqxM",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E212互动部分: 中国人是否应该接受外国介入台海 / 中国对台政策的既要又要还要 / 中国能填补美国的全球领导力真空吗 / 中国盟友和台湾盟友的区别",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:05:21",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E212互动部分_ 中国人是否应该接受外国介入台海 _ 中国对台政策的既要又要还要 _ 中国能填补美国的全球领导力真空吗 _ 中国盟友和台湾盟友的区别",
+    "file_stem": "E212互动部分_ 中国人是否应该接受外国介入台海 _ 中国对台政策的既要又要还要 _ 中国能填补美国的全球领导力真空吗 _ 中国盟友和台湾盟友的区别"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:36:39",
+  "status": "failed",
+  "error": "\u001b[0;31mERROR:\u001b[0m \r[download] Got error: The read operation timed out",
+  "traceback": "Traceback (most recent call last):\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\app.py\", line 656, in run_batch\n    audio_path, download_info = download_audio(item, video_dir, file_stem)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\app.py\", line 467, in download_audio\n    info = ydl.extract_info(item.url, download=True)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 1687, in extract_info\n    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 1698, in wrapper\n    return func(self, *args, **kwargs)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 1854, in __extract_info\n    return self.process_ie_result(ie_result, download, extra_info)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 1913, in process_ie_result\n    ie_result = self.process_video_result(ie_result, download=download)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 3096, in process_video_result\n    self.process_info(new_info)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 189, in wrapper\n    return func(self, *args, **kwargs)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 3544, in process_info\n    success, real_download = self.dl(temp_filename, info_dict)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 3285, in dl\n    return fd.download(name, new_info, subtitle)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\downloader\\common.py\", line 480, in download\n    ret = self.real_download(filename, info_dict)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\downloader\\http.py\", line 360, in real_download\n    for retry in RetryManager(self.params.get('retries'), self.report_retry):\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\utils\\_utils.py\", line 5274, in __iter__\n    self.error_callback(self.error, self.attempt, self.retries)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\downloader\\common.py\", line 413, in report_retry\n    RetryManager.report_retry(\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\utils\\_utils.py\", line 5281, in report_retry\n    return error(f'{e}. Giving up after {count - 1} retries') if count > 1 else error(str(e))\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\downloader\\common.py\", line 416, in <lambda>\n    error=IDENTITY if not fatal else lambda e: self.report_error(f'\\r[download] Got error: {e}'),\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 1154, in report_error\n    self.trouble(f'{self._format_err(\"ERROR:\", self.Styles.ERROR)} {message}', *args, **kwargs)\n  File \"F:\\development\\flipradio_dataset\\youtube_transcriber\\.venv\\lib\\site-packages\\yt_dlp\\YoutubeDL.py\", line 1093, in trouble\n    raise DownloadError(message, exc_info)\nyt_dlp.utils.DownloadError: \u001b[0;31mERROR:\u001b[0m \r[download] Got error: The read operation timed out\n",
+  "finished_at": "2026-04-27 16:37:35"
+}

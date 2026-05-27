@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "3_Jmom4YYzo",
+    "title": "[Observation Line] From digital security to entrepot trade, how should ASEAN handle the US-China ...",
+    "url": "https://www.youtube.com/watch?v=3_Jmom4YYzo",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] From digital security to entrepot trade, how should ASEAN handle the US-China ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "38:50",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] From digital security to entrepot trade, how should ASEAN han",
+    "file_stem": "[Observation Line] From digital security to entrepot trade, how should ASEAN han"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:27:15",
+  "download": {
+    "id": "3_Jmom4YYzo",
+    "title": "［ 观察线 ］从数字安全到转口贸易, 东盟如何处理中美争霸?",
+    "webpage_url": "https://www.youtube.com/watch?v=3_Jmom4YYzo",
+    "duration": 2329,
+    "upload_date": "20260119",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] From digital security to entrepot trade, how should ASEAN han\\[Observation Line] From digital security to entrepot trade, how should ASEAN han_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2329.402625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 149,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:32:14"
+}

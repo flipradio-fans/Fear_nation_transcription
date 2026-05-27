@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "JDuFXSnrWoY",
+    "title": "E231 极端敏感! 郑习会全解读 : 扶持国民党，还是又帮民进党助选？ | 透明茶室 • 分析线 | 马英九 | 九二共识 | 民调｜特别军购",
+    "url": "https://www.youtube.com/watch?v=JDuFXSnrWoY",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E231 极端敏感! 郑习会全解读 : 扶持国民党，还是又帮民进党助选？ | 透明茶室 • 分析线 | 马英九 | 九二共识 | 民调｜特别军购",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "34:56",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E231 极端敏感! 郑习会全解读 _ 扶持国民党，还是又帮民进党助选？ _ 透明茶室 • 分析线 _ 马英九 _ 九二共识 _ 民调｜特别军购",
+    "file_stem": "E231 极端敏感! 郑习会全解读 _ 扶持国民党，还是又帮民进党助选？ _ 透明茶室 • 分析线 _ 马英九 _ 九二共识 _ 民调｜特别军购"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:15:59",
+  "download": {
+    "id": "JDuFXSnrWoY",
+    "title": "E231 极端敏感! 郑习会全解读 : 扶持国民党，还是又帮民进党助选？ | 透明茶室 • 分析线 | 马英九 | 九二共识 | 民调｜特别军购",
+    "webpage_url": "https://www.youtube.com/watch?v=JDuFXSnrWoY",
+    "duration": 2096,
+    "upload_date": "20260403",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E231 极端敏感! 郑习会全解读 _ 扶持国民党，还是又帮民进党助选？ _ 透明茶室 • 分析线 _ 马英九 _ 九二共识 _ 民调｜特别军购\\E231 极端敏感! 郑习会全解读 _ 扶持国民党，还是又帮民进党助选？ _ 透明茶室 • 分析线 _ 马英九 _ 九二共识 _ 民调｜特别军购_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2095.7983125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 71,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:20:07"
+}

@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "sQKfJTLHlVY",
+    "title": "218互动部分: 2026年美国中期选举展望 / ICE的执法权问题 / 特朗普的政治风格与外溢 / 美国与中国的财政危机",
+    "url": "https://www.youtube.com/watch?v=sQKfJTLHlVY",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "218互动部分: 2026年美国中期选举展望 / ICE的执法权问题 / 特朗普的政治风格与外溢 / 美国与中国的财政危机",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:33:18",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "218互动部分_ 2026年美国中期选举展望 _ ICE的执法权问题 _ 特朗普的政治风格与外溢 _ 美国与中国的财政危机",
+    "file_stem": "218互动部分_ 2026年美国中期选举展望 _ ICE的执法权问题 _ 特朗普的政治风格与外溢 _ 美国与中国的财政危机"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:59:39",
+  "download": {
+    "id": "sQKfJTLHlVY",
+    "title": "218互动部分: 2026年美国中期选举展望 / ICE的执法权问题 / 特朗普的政治风格与外溢 / 美国与中国的财政危机",
+    "webpage_url": "https://www.youtube.com/watch?v=sQKfJTLHlVY",
+    "duration": 5598,
+    "upload_date": "20260110",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\218互动部分_ 2026年美国中期选举展望 _ ICE的执法权问题 _ 特朗普的政治风格与外溢 _ 美国与中国的财政危机\\218互动部分_ 2026年美国中期选举展望 _ ICE的执法权问题 _ 特朗普的政治风格与外溢 _ 美国与中国的财政危机_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 5597.541625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 194,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:10:26"
+}

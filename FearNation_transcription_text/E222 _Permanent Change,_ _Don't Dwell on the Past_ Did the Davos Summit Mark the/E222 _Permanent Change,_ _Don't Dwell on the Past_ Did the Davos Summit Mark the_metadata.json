@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "YEwi1VMY_HA",
+    "title": "E222 \"Permanent Change,\" \"Don't Dwell on the Past\": Did the Davos Summit Mark the End of the Worl...",
+    "url": "https://www.youtube.com/watch?v=YEwi1VMY_HA",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E222 \"Permanent Change,\" \"Don't Dwell on the Past\": Did the Davos Summit Mark the End of the Worl...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "34:36",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E222 _Permanent Change,_ _Don't Dwell on the Past_ Did the Davos Summit Mark the",
+    "file_stem": "E222 _Permanent Change,_ _Don't Dwell on the Past_ Did the Davos Summit Mark the"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:17:19",
+  "download": {
+    "id": "YEwi1VMY_HA",
+    "title": "E222 「永久改变」「不要恋旧」达沃斯峰会是否为世界秩序划上句号? | 透明茶室 • 分析线 | 特朗普 | 卡尼 | 欧盟｜大国博弈",
+    "webpage_url": "https://www.youtube.com/watch?v=YEwi1VMY_HA",
+    "duration": 2075,
+    "upload_date": "20260123",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E222 _Permanent Change,_ _Don't Dwell on the Past_ Did the Davos Summit Mark the\\E222 _Permanent Change,_ _Don't Dwell on the Past_ Did the Davos Summit Mark the_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2075.0860625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 71,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:21:34"
+}

@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "wXF7AAaILCw",
+    "title": "[Observation Line] Are China's \"dirt-cheap\" cutting-edge technologies causing the West's mentalit...",
+    "url": "https://www.youtube.com/watch?v=wXF7AAaILCw",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Are China's \"dirt-cheap\" cutting-edge technologies causing the West's mentalit...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "42:13",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Are China's _dirt-cheap_ cutting-edge technologies causing th",
+    "file_stem": "[Observation Line] Are China's _dirt-cheap_ cutting-edge technologies causing th"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:30:02",
+  "download": {
+    "id": "wXF7AAaILCw",
+    "title": "［ 观察线 ］中国“白菜价”黑科技，正在让西方心态崩塌？",
+    "webpage_url": "https://www.youtube.com/watch?v=wXF7AAaILCw",
+    "duration": 2533,
+    "upload_date": "20251225",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Are China's _dirt-cheap_ cutting-edge technologies causing th\\[Observation Line] Are China's _dirt-cheap_ cutting-edge technologies causing th_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2532.774625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 168,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:35:50"
+}

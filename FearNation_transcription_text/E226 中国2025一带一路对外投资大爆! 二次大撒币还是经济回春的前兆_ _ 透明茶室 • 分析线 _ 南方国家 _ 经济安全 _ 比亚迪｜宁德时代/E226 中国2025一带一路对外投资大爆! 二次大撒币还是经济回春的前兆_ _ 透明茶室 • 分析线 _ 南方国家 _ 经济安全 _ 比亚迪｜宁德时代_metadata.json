@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "bXCas02e9QE",
+    "title": "E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆? | 透明茶室 • 分析线 | 南方国家 | 经济安全 | 比亚迪｜宁德时代",
+    "url": "https://www.youtube.com/watch?v=bXCas02e9QE",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆? | 透明茶室 • 分析线 | 南方国家 | 经济安全 | 比亚迪｜宁德时代",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "35:39",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆_ _ 透明茶室 • 分析线 _ 南方国家 _ 经济安全 _ 比亚迪｜宁德时代",
+    "file_stem": "E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆_ _ 透明茶室 • 分析线 _ 南方国家 _ 经济安全 _ 比亚迪｜宁德时代"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:46:30",
+  "download": {
+    "id": "bXCas02e9QE",
+    "title": "E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆? | 透明茶室 • 分析线 | 南方国家 | 经济安全 | 比亚迪｜宁德时代",
+    "webpage_url": "https://www.youtube.com/watch?v=bXCas02e9QE",
+    "duration": 2138,
+    "upload_date": "20260206",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆_ _ 透明茶室 • 分析线 _ 南方国家 _ 经济安全 _ 比亚迪｜宁德时代\\E226 中国2025一带一路对外投资大爆! 二次大撒币还是经济回春的前兆_ _ 透明茶室 • 分析线 _ 南方国家 _ 经济安全 _ 比亚迪｜宁德时代_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2138.1746875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 73,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:51:12"
+}

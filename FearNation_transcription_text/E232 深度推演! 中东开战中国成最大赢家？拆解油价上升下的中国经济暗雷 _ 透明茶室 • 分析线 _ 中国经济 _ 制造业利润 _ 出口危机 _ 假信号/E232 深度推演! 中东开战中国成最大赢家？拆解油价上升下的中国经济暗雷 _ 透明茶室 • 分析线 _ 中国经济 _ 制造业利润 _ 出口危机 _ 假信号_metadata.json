@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "UOwDAPO4e14",
+    "title": "E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 | 透明茶室 • 分析线 | 中国经济 | 制造业利润 | 出口危机 | 假信号",
+    "url": "https://www.youtube.com/watch?v=UOwDAPO4e14",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 | 透明茶室 • 分析线 | 中国经济 | 制造业利润 | 出口危机 | 假信号",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "45:34",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 _ 透明茶室 • 分析线 _ 中国经济 _ 制造业利润 _ 出口危机 _ 假信号",
+    "file_stem": "E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 _ 透明茶室 • 分析线 _ 中国经济 _ 制造业利润 _ 出口危机 _ 假信号"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:06:38",
+  "download": {
+    "id": "UOwDAPO4e14",
+    "title": "E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 | 透明茶室 • 分析线 | 中国经济 | 制造业利润 | 出口危机 | 假信号",
+    "webpage_url": "https://www.youtube.com/watch?v=UOwDAPO4e14",
+    "duration": 2734,
+    "upload_date": "20260407",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 _ 透明茶室 • 分析线 _ 中国经济 _ 制造业利润 _ 出口危机 _ 假信号\\E232 深度推演! 中东开战中国成最大赢家？拆解油价上升下的中国经济暗雷 _ 透明茶室 • 分析线 _ 中国经济 _ 制造业利润 _ 出口危机 _ 假信号_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2733.801375,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 92,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:12:10"
+}

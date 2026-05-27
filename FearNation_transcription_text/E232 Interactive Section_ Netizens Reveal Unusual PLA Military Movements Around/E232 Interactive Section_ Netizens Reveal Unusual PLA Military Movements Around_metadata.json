@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "jLLfQnUF4VM",
+    "title": "E232 Interactive Section: Netizens Reveal Unusual PLA Military Movements Around the Taiwan Strait...",
+    "url": "https://www.youtube.com/watch?v=jLLfQnUF4VM",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E232 Interactive Section: Netizens Reveal Unusual PLA Military Movements Around the Taiwan Strait...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:01:52",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E232 Interactive Section_ Netizens Reveal Unusual PLA Military Movements Around",
+    "file_stem": "E232 Interactive Section_ Netizens Reveal Unusual PLA Military Movements Around"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:00:01",
+  "download": {
+    "id": "jLLfQnUF4VM",
+    "title": "E232互动部分: 网友爆料解放军台海周边异常军事调动 / 中国能否效仿日本通过通胀稀释债务 / 美国民众为何越来越不愿为海外战争买单",
+    "webpage_url": "https://www.youtube.com/watch?v=jLLfQnUF4VM",
+    "duration": 3712,
+    "upload_date": "20260408",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E232 Interactive Section_ Netizens Reveal Unusual PLA Military Movements Around\\E232 Interactive Section_ Netizens Reveal Unusual PLA Military Movements Around_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3711.825875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 128,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:06:38"
+}

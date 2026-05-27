@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "bCLtK_DUJ6w",
+    "title": "E219 2025中国科技总结: 在很多产业真的开始赢过世界时, 在输掉未来吗? | 透明茶室 • 分析线 | 稀土 | 医药 | 补贴｜工程黑洞 | 低人权优势",
+    "url": "https://www.youtube.com/watch?v=bCLtK_DUJ6w",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E219 2025中国科技总结: 在很多产业真的开始赢过世界时, 在输掉未来吗? | 透明茶室 • 分析线 | 稀土 | 医药 | 补贴｜工程黑洞 | 低人权优势",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "40:03",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E219 2025中国科技总结_ 在很多产业真的开始赢过世界时, 在输掉未来吗_ _ 透明茶室 • 分析线 _ 稀土 _ 医药 _ 补贴｜工程黑洞 _ 低人权优",
+    "file_stem": "E219 2025中国科技总结_ 在很多产业真的开始赢过世界时, 在输掉未来吗_ _ 透明茶室 • 分析线 _ 稀土 _ 医药 _ 补贴｜工程黑洞 _ 低人权优"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:49:30",
+  "download": {
+    "id": "bCLtK_DUJ6w",
+    "title": "E219 2025中国科技总结: 在很多产业真的开始赢过世界时, 在输掉未来吗? | 透明茶室 • 分析线 | 稀土 | 医药 | 补贴｜工程黑洞 | 低人权优势",
+    "webpage_url": "https://www.youtube.com/watch?v=bCLtK_DUJ6w",
+    "duration": 2402,
+    "upload_date": "20260113",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E219 2025中国科技总结_ 在很多产业真的开始赢过世界时, 在输掉未来吗_ _ 透明茶室 • 分析线 _ 稀土 _ 医药 _ 补贴｜工程黑洞 _ 低人权优\\E219 2025中国科技总结_ 在很多产业真的开始赢过世界时, 在输掉未来吗_ _ 透明茶室 • 分析线 _ 稀土 _ 医药 _ 补贴｜工程黑洞 _ 低人权优_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2402.3016875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 89,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:54:51"
+}

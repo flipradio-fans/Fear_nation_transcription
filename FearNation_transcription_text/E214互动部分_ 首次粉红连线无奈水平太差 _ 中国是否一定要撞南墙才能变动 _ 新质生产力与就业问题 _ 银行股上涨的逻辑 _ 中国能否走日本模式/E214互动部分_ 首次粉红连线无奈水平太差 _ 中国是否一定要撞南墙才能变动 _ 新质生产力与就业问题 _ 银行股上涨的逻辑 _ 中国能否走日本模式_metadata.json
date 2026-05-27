@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "DUwT5DHG3Mc",
+    "title": "E214互动部分: 首次粉红连线无奈水平太差 / 中国是否一定要撞南墙才能变动 / 新质生产力与就业问题 / 银行股上涨的逻辑 / 中国能否走日本模式",
+    "url": "https://www.youtube.com/watch?v=DUwT5DHG3Mc",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E214互动部分: 首次粉红连线无奈水平太差 / 中国是否一定要撞南墙才能变动 / 新质生产力与就业问题 / 银行股上涨的逻辑 / 中国能否走日本模式",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:20:36",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E214互动部分_ 首次粉红连线无奈水平太差 _ 中国是否一定要撞南墙才能变动 _ 新质生产力与就业问题 _ 银行股上涨的逻辑 _ 中国能否走日本模式",
+    "file_stem": "E214互动部分_ 首次粉红连线无奈水平太差 _ 中国是否一定要撞南墙才能变动 _ 新质生产力与就业问题 _ 银行股上涨的逻辑 _ 中国能否走日本模式"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:02:27",
+  "download": {
+    "id": "DUwT5DHG3Mc",
+    "title": "E214互动部分: 首次粉红连线无奈水平太差 / 中国是否一定要撞南墙才能变动 / 新质生产力与就业问题 / 银行股上涨的逻辑 / 中国能否走日本模式",
+    "webpage_url": "https://www.youtube.com/watch?v=DUwT5DHG3Mc",
+    "duration": 4836,
+    "upload_date": "20251212",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E214互动部分_ 首次粉红连线无奈水平太差 _ 中国是否一定要撞南墙才能变动 _ 新质生产力与就业问题 _ 银行股上涨的逻辑 _ 中国能否走日本模式\\E214互动部分_ 首次粉红连线无奈水平太差 _ 中国是否一定要撞南墙才能变动 _ 新质生产力与就业问题 _ 银行股上涨的逻辑 _ 中国能否走日本模式_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 4835.8186875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 166,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:12:18"
+}

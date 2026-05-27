@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "pONIwdmCQ1U",
+    "title": "E213 Detailed Analysis of Trump's 2025 National Security Policy Document: Is the US Admitting Def...",
+    "url": "https://www.youtube.com/watch?v=pONIwdmCQ1U",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E213 Detailed Analysis of Trump's 2025 National Security Policy Document: Is the US Admitting Def...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "35:50",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E213 Detailed Analysis of Trump's 2025 National Security Policy Document_ Is the",
+    "file_stem": "E213 Detailed Analysis of Trump's 2025 National Security Policy Document_ Is the"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:25:38",
+  "download": {
+    "id": "pONIwdmCQ1U",
+    "title": "E213 详解川普2025国安政策文件，美国是否在亚洲向中国认输 | 透明茶室 • 分析线 | 印太 | 台海 | 印度｜ 美中争霸",
+    "webpage_url": "https://www.youtube.com/watch?v=pONIwdmCQ1U",
+    "duration": 2149,
+    "upload_date": "20251209",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E213 Detailed Analysis of Trump's 2025 National Security Policy Document_ Is the\\E213 Detailed Analysis of Trump's 2025 National Security Policy Document_ Is the_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2149.355125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 76,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:30:02"
+}

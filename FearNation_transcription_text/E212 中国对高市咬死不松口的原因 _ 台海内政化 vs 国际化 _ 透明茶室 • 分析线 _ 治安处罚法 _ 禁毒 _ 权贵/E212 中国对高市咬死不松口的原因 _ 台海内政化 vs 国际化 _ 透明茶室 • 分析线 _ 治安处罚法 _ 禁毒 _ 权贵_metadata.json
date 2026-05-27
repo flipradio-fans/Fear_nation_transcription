@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "dvoy6_YB2_M",
+    "title": "E212 中国对高市咬死不松口的原因 : 台海内政化 vs 国际化 | 透明茶室 • 分析线 | 治安处罚法 | 禁毒 | 权贵",
+    "url": "https://www.youtube.com/watch?v=dvoy6_YB2_M",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E212 中国对高市咬死不松口的原因 : 台海内政化 vs 国际化 | 透明茶室 • 分析线 | 治安处罚法 | 禁毒 | 权贵",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "32:21",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E212 中国对高市咬死不松口的原因 _ 台海内政化 vs 国际化 _ 透明茶室 • 分析线 _ 治安处罚法 _ 禁毒 _ 权贵",
+    "file_stem": "E212 中国对高市咬死不松口的原因 _ 台海内政化 vs 国际化 _ 透明茶室 • 分析线 _ 治安处罚法 _ 禁毒 _ 权贵"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:37:36",
+  "download": {
+    "id": "dvoy6_YB2_M",
+    "title": "E212 中国对高市咬死不松口的原因 : 台海内政化 vs 国际化 | 透明茶室 • 分析线 | 治安处罚法 | 禁毒 | 权贵",
+    "webpage_url": "https://www.youtube.com/watch?v=dvoy6_YB2_M",
+    "duration": 1941,
+    "upload_date": "20251205",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E212 中国对高市咬死不松口的原因 _ 台海内政化 vs 国际化 _ 透明茶室 • 分析线 _ 治安处罚法 _ 禁毒 _ 权贵\\E212 中国对高市咬死不松口的原因 _ 台海内政化 vs 国际化 _ 透明茶室 • 分析线 _ 治安处罚法 _ 禁毒 _ 权贵_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1940.5845,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 66,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:41:53"
+}

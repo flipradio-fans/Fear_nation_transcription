@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "iLAl8EPXGx0",
+    "title": "E223 Zhang Youxia's Purge Unrelated to the Taiwan Strait? A Look at His Hasty Actions Leading to ...",
+    "url": "https://www.youtube.com/watch?v=iLAl8EPXGx0",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E223 Zhang Youxia's Purge Unrelated to the Taiwan Strait? A Look at His Hasty Actions Leading to ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "47:25",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E223 Zhang Youxia's Purge Unrelated to the Taiwan Strait_ A Look at His Hasty Ac",
+    "file_stem": "E223 Zhang Youxia's Purge Unrelated to the Taiwan Strait_ A Look at His Hasty Ac"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:11:11",
+  "download": {
+    "id": "iLAl8EPXGx0",
+    "title": "E223 张又侠大清洗与台海无关? 从他落马的急躁作为切入 | 透明茶室 • 分析线 | 中央军委 | 习近平 | 大清洗｜贪腐",
+    "webpage_url": "https://www.youtube.com/watch?v=iLAl8EPXGx0",
+    "duration": 2844,
+    "upload_date": "20260127",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E223 Zhang Youxia's Purge Unrelated to the Taiwan Strait_ A Look at His Hasty Ac\\E223 Zhang Youxia's Purge Unrelated to the Taiwan Strait_ A Look at His Hasty Ac_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2844.014875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 100,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:17:18"
+}

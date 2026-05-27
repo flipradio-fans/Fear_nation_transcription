@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "TphYe8OcrNQ",
+    "title": "[Observation Line] Nvidia H200 chip reverses course; focus on the forefront of the US-China chip ...",
+    "url": "https://www.youtube.com/watch?v=TphYe8OcrNQ",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Nvidia H200 chip reverses course; focus on the forefront of the US-China chip ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "40:14",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Nvidia H200 chip reverses course; focus on the forefront of t",
+    "file_stem": "[Observation Line] Nvidia H200 chip reverses course; focus on the forefront of t"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:39:08",
+  "download": {
+    "id": "TphYe8OcrNQ",
+    "title": "［ 观察线 ］英伟达H200芯片反转, 集中看中美芯片和AI战的前沿",
+    "webpage_url": "https://www.youtube.com/watch?v=TphYe8OcrNQ",
+    "duration": 2413,
+    "upload_date": "20251218",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Nvidia H200 chip reverses course; focus on the forefront of t\\[Observation Line] Nvidia H200 chip reverses course; focus on the forefront of t_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2413.249875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 155,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:44:35"
+}

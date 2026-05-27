@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "9ANX5tNJll4",
+    "title": "E233 川普亲手把全世界推给北京, 四天五国访华全解读 | 透明茶室 • 分析线 | 伊朗战争 | 越共党际合作 | 阿联酋AI | 西班牙窗口 | 普京访华",
+    "url": "https://www.youtube.com/watch?v=9ANX5tNJll4",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E233 川普亲手把全世界推给北京, 四天五国访华全解读 | 透明茶室 • 分析线 | 伊朗战争 | 越共党际合作 | 阿联酋AI | 西班牙窗口 | 普京访华",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "54:20",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E233 川普亲手把全世界推给北京, 四天五国访华全解读 _ 透明茶室 • 分析线 _ 伊朗战争 _ 越共党际合作 _ 阿联酋AI _ 西班牙窗口 _ 普京访华",
+    "file_stem": "E233 川普亲手把全世界推给北京, 四天五国访华全解读 _ 透明茶室 • 分析线 _ 伊朗战争 _ 越共党际合作 _ 阿联酋AI _ 西班牙窗口 _ 普京访华"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 12:37:10",
+  "download": {
+    "id": "9ANX5tNJll4",
+    "title": "E233 川普亲手把全世界推给北京, 四天五国访华全解读 | 透明茶室 • 分析线 | 伊朗战争 | 越共党际合作 | 阿联酋AI | 西班牙窗口 | 普京访华",
+    "webpage_url": "https://www.youtube.com/watch?v=9ANX5tNJll4",
+    "duration": 3260,
+    "upload_date": "20260420",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E233 川普亲手把全世界推给北京, 四天五国访华全解读 _ 透明茶室 • 分析线 _ 伊朗战争 _ 越共党际合作 _ 阿联酋AI _ 西班牙窗口 _ 普京访华\\E233 川普亲手把全世界推给北京, 四天五国访华全解读 _ 透明茶室 • 分析线 _ 伊朗战争 _ 越共党际合作 _ 阿联酋AI _ 西班牙窗口 _ 普京访华_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3259.6636875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 112,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 12:41:26"
+}

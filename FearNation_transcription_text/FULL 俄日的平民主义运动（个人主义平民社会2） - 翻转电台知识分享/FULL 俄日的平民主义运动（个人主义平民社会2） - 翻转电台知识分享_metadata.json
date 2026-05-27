@@ -1,0 +1,53 @@
+{
+  "source": {
+    "video_id": "CcSFvZN_A98",
+    "title": "FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享",
+    "url": "https://www.youtube.com/watch?v=CcSFvZN_A98",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:52:17",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享",
+    "file_stem": "FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享"
+  },
+  "settings": {
+    "provider": "OpenAI API",
+    "local_model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "api_model": "gpt-4o-mini-transcribe",
+    "prompt_mode": "使用默认 Prompt",
+    "device": "cpu",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 18:26:43",
+  "download": {
+    "id": "CcSFvZN_A98",
+    "title": "FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享",
+    "webpage_url": "https://www.youtube.com/watch?v=CcSFvZN_A98",
+    "duration": 6737,
+    "upload_date": "20240504",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享\\FULL 俄日的平民主义运动（个人主义平民社会2） - 翻转电台知识分享_audio.webm",
+  "model_info": {
+    "provider": "openai",
+    "model": "gpt-4o-mini-transcribe",
+    "prompt_mode": "default",
+    "prompt_used": true,
+    "chunk_count": 8,
+    "direct_upload_limit_mb": 24
+  },
+  "segment_count": 8,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 18:29:49"
+}

@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "JU_iSIlizBI",
+    "title": "[Observation Line] Looking ahead to the US-China rivalry in 2026, from AI to military to Latin Am...",
+    "url": "https://www.youtube.com/watch?v=JU_iSIlizBI",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Looking ahead to the US-China rivalry in 2026, from AI to military to Latin Am...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "44:59",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Looking ahead to the US-China rivalry in 2026, from AI to mil",
+    "file_stem": "[Observation Line] Looking ahead to the US-China rivalry in 2026, from AI to mil"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:18:53",
+  "download": {
+    "id": "JU_iSIlizBI",
+    "title": "［ 观察线 ］前瞻2026年中美博弈, 从AI到军事到拉美",
+    "webpage_url": "https://www.youtube.com/watch?v=JU_iSIlizBI",
+    "duration": 2699,
+    "upload_date": "20260108",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Looking ahead to the US-China rivalry in 2026, from AI to mil\\[Observation Line] Looking ahead to the US-China rivalry in 2026, from AI to mil_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2698.8785625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 170,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:25:12"
+}

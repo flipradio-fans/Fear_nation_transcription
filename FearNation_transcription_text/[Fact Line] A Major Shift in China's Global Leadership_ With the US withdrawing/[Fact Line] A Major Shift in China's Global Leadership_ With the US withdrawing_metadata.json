@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "SA8S3_CvhX0",
+    "title": "[Fact Line] A Major Shift in China's Global Leadership? With the US withdrawing from the G20 and ...",
+    "url": "https://www.youtube.com/watch?v=SA8S3_CvhX0",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Fact Line] A Major Shift in China's Global Leadership? With the US withdrawing from the G20 and ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "29:04",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Fact Line] A Major Shift in China's Global Leadership_ With the US withdrawing",
+    "file_stem": "[Fact Line] A Major Shift in China's Global Leadership_ With the US withdrawing"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:10:37",
+  "download": {
+    "id": "SA8S3_CvhX0",
+    "title": "［ 事实线 ］中国全球领导力大变局?美国接连退出G20与气候大会, 中国能填补吗?",
+    "webpage_url": "https://www.youtube.com/watch?v=SA8S3_CvhX0",
+    "duration": 1744,
+    "upload_date": "20251126",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Fact Line] A Major Shift in China's Global Leadership_ With the US withdrawing\\[Fact Line] A Major Shift in China's Global Leadership_ With the US withdrawing_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1743.586375,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 94,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:14:28"
+}

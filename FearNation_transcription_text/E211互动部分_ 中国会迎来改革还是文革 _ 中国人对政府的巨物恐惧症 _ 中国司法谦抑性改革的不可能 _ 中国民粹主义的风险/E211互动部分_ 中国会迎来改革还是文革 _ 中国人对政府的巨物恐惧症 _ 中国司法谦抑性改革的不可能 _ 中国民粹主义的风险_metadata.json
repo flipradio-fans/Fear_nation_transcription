@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "szVV_c8OfBg",
+    "title": "E211互动部分: 中国会迎来改革还是文革 / 中国人对政府的巨物恐惧症 / 中国司法谦抑性改革的不可能 / 中国民粹主义的风险",
+    "url": "https://www.youtube.com/watch?v=szVV_c8OfBg",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E211互动部分: 中国会迎来改革还是文革 / 中国人对政府的巨物恐惧症 / 中国司法谦抑性改革的不可能 / 中国民粹主义的风险",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:07:09",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E211互动部分_ 中国会迎来改革还是文革 _ 中国人对政府的巨物恐惧症 _ 中国司法谦抑性改革的不可能 _ 中国民粹主义的风险",
+    "file_stem": "E211互动部分_ 中国会迎来改革还是文革 _ 中国人对政府的巨物恐惧症 _ 中国司法谦抑性改革的不可能 _ 中国民粹主义的风险"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:44:34",
+  "download": {
+    "id": "szVV_c8OfBg",
+    "title": "E211互动部分: 中国会迎来改革还是文革 / 中国人对政府的巨物恐惧症 / 中国司法谦抑性改革的不可能 / 中国民粹主义的风险",
+    "webpage_url": "https://www.youtube.com/watch?v=szVV_c8OfBg",
+    "duration": 4028,
+    "upload_date": "20251202",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E211互动部分_ 中国会迎来改革还是文革 _ 中国人对政府的巨物恐惧症 _ 中国司法谦抑性改革的不可能 _ 中国民粹主义的风险\\E211互动部分_ 中国会迎来改革还是文革 _ 中国人对政府的巨物恐惧症 _ 中国司法谦抑性改革的不可能 _ 中国民粹主义的风险_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 4028.267375,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 137,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:52:52"
+}

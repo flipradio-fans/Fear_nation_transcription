@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "teRPTstogvc",
+    "title": "[Fact Line] BBC Director-General Resigns in Disgrace! How Serious Are the Consequences of Angerin...",
+    "url": "https://www.youtube.com/watch?v=teRPTstogvc",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Fact Line] BBC Director-General Resigns in Disgrace! How Serious Are the Consequences of Angerin...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "37:46",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Fact Line] BBC Director-General Resigns in Disgrace! How Serious Are the Conseq",
+    "file_stem": "[Fact Line] BBC Director-General Resigns in Disgrace! How Serious Are the Conseq"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:37:54",
+  "download": {
+    "id": "teRPTstogvc",
+    "title": "［ 事实线 ］BBC总裁黯然下台！惹怒川普后果多严重？这起剪辑门差点引发英美外交危机",
+    "webpage_url": "https://www.youtube.com/watch?v=teRPTstogvc",
+    "duration": 2265,
+    "upload_date": "20251119",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Fact Line] BBC Director-General Resigns in Disgrace! How Serious Are the Conseq\\[Fact Line] BBC Director-General Resigns in Disgrace! How Serious Are the Conseq_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2265.2343125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 128,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:42:42"
+}

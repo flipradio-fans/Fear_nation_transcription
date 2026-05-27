@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "7kJmgZAflxc",
+    "title": "E218 再次伟大还是自废武功? 2025第二任期首年全解析 | 透明茶室 • 分析线 | 俄乌战争 | 和平奖 | 贸易战｜MAGA | 言论自由",
+    "url": "https://www.youtube.com/watch?v=7kJmgZAflxc",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E218 再次伟大还是自废武功? 2025第二任期首年全解析 | 透明茶室 • 分析线 | 俄乌战争 | 和平奖 | 贸易战｜MAGA | 言论自由",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:02:39",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E218 再次伟大还是自废武功_ 2025第二任期首年全解析 _ 透明茶室 • 分析线 _ 俄乌战争 _ 和平奖 _ 贸易战｜MAGA _ 言论自由",
+    "file_stem": "E218 再次伟大还是自废武功_ 2025第二任期首年全解析 _ 透明茶室 • 分析线 _ 俄乌战争 _ 和平奖 _ 贸易战｜MAGA _ 言论自由"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:10:27",
+  "download": {
+    "id": "7kJmgZAflxc",
+    "title": "E218 再次伟大还是自废武功? 2025第二任期首年全解析 | 透明茶室 • 分析线 | 俄乌战争 | 和平奖 | 贸易战｜MAGA | 言论自由",
+    "webpage_url": "https://www.youtube.com/watch?v=7kJmgZAflxc",
+    "duration": 3758,
+    "upload_date": "20260109",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E218 再次伟大还是自废武功_ 2025第二任期首年全解析 _ 透明茶室 • 分析线 _ 俄乌战争 _ 和平奖 _ 贸易战｜MAGA _ 言论自由\\E218 再次伟大还是自废武功_ 2025第二任期首年全解析 _ 透明茶室 • 分析线 _ 俄乌战争 _ 和平奖 _ 贸易战｜MAGA _ 言论自由_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3758.0335625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 130,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:18:52"
+}

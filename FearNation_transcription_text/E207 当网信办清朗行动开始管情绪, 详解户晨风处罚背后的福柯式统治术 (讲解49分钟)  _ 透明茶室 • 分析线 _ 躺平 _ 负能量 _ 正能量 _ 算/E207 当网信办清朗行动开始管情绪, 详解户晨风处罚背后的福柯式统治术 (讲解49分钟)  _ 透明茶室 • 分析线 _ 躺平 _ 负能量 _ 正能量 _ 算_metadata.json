@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "dDYLGSRSXFs",
+    "title": "E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  | 透明茶室 • 分析线 | 躺平 | 负能量 | 正能量 | 算法",
+    "url": "https://www.youtube.com/watch?v=dDYLGSRSXFs",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  | 透明茶室 • 分析线 | 躺平 | 负能量 | 正能量 | 算法",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:27:05",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  _ 透明茶室 • 分析线 _ 躺平 _ 负能量 _ 正能量 _ 算",
+    "file_stem": "E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  _ 透明茶室 • 分析线 _ 躺平 _ 负能量 _ 正能量 _ 算"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 18:00:02",
+  "download": {
+    "id": "dDYLGSRSXFs",
+    "title": "E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  | 透明茶室 • 分析线 | 躺平 | 负能量 | 正能量 | 算法",
+    "webpage_url": "https://www.youtube.com/watch?v=dDYLGSRSXFs",
+    "duration": 5224,
+    "upload_date": "20251114",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  _ 透明茶室 • 分析线 _ 躺平 _ 负能量 _ 正能量 _ 算\\E207 当网信办清朗行动开始管情绪, 详解户晨风处罚背后的福柯式统治术 (讲解49分钟)  _ 透明茶室 • 分析线 _ 躺平 _ 负能量 _ 正能量 _ 算_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 5224.3969375,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 193,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 18:10:45"
+}

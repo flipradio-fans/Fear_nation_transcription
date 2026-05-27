@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "52yUuCagQII",
+    "title": "E227 Is Japan Confirmed to Revise the Constitution? The Geopolitical Shifts Following Sanae Takai...",
+    "url": "https://www.youtube.com/watch?v=52yUuCagQII",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E227 Is Japan Confirmed to Revise the Constitution? The Geopolitical Shifts Following Sanae Takai...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "47:41",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E227 Is Japan Confirmed to Revise the Constitution_ The Geopolitical Shifts Foll",
+    "file_stem": "E227 Is Japan Confirmed to Revise the Constitution_ The Geopolitical Shifts Foll"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:40:22",
+  "download": {
+    "id": "52yUuCagQII",
+    "title": "E227 日本确定修宪？高市早苗大胜后的地缘剧变与在日华人的“去留抉择” | 透明茶室 • 分析线 | 自民党 | 众议院 | 中道改革｜地缘政治",
+    "webpage_url": "https://www.youtube.com/watch?v=52yUuCagQII",
+    "duration": 2861,
+    "upload_date": "20260210",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E227 Is Japan Confirmed to Revise the Constitution_ The Geopolitical Shifts Foll\\E227 Is Japan Confirmed to Revise the Constitution_ The Geopolitical Shifts Foll_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2860.8958125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 96,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:46:29"
+}

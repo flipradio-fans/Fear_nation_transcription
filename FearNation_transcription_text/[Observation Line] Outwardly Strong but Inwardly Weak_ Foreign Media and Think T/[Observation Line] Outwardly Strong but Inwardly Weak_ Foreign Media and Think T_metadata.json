@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "BfywHCbd93Q",
+    "title": "[Observation Line] Outwardly Strong but Inwardly Weak? Foreign Media and Think Tanks Reveal the C...",
+    "url": "https://www.youtube.com/watch?v=BfywHCbd93Q",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Outwardly Strong but Inwardly Weak? Foreign Media and Think Tanks Reveal the C...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "46:01",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Outwardly Strong but Inwardly Weak_ Foreign Media and Think T",
+    "file_stem": "[Observation Line] Outwardly Strong but Inwardly Weak_ Foreign Media and Think T"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:23:51",
+  "download": {
+    "id": "BfywHCbd93Q",
+    "title": "［ 观察线 ］外强中干？外媒智库揭露中国经济「面子」背后的残酷真相  | 中国投资 | 中日韩 | 新质生产力",
+    "webpage_url": "https://www.youtube.com/watch?v=BfywHCbd93Q",
+    "duration": 2760,
+    "upload_date": "20251124",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Outwardly Strong but Inwardly Weak_ Foreign Media and Think T\\[Observation Line] Outwardly Strong but Inwardly Weak_ Foreign Media and Think T_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2760.365,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 167,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:30:00"
+}

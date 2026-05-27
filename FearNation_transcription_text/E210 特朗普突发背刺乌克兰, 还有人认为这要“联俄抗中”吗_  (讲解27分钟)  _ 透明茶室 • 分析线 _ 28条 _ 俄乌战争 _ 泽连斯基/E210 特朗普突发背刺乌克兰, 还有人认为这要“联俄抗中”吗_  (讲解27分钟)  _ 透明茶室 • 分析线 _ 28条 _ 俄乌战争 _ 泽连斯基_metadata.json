@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "uPQGjvTfAgE",
+    "title": "E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗?  (讲解27分钟)  | 透明茶室 • 分析线 | 28条 | 俄乌战争 | 泽连斯基",
+    "url": "https://www.youtube.com/watch?v=uPQGjvTfAgE",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗?  (讲解27分钟)  | 透明茶室 • 分析线 | 28条 | 俄乌战争 | 泽连斯基",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:14:07",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗_  (讲解27分钟)  _ 透明茶室 • 分析线 _ 28条 _ 俄乌战争 _ 泽连斯基",
+    "file_stem": "E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗_  (讲解27分钟)  _ 透明茶室 • 分析线 _ 28条 _ 俄乌战争 _ 泽连斯基"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:14:29",
+  "download": {
+    "id": "uPQGjvTfAgE",
+    "title": "E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗?  (讲解27分钟)  | 透明茶室 • 分析线 | 28条 | 俄乌战争 | 泽连斯基",
+    "webpage_url": "https://www.youtube.com/watch?v=uPQGjvTfAgE",
+    "duration": 4447,
+    "upload_date": "20251125",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗_  (讲解27分钟)  _ 透明茶室 • 分析线 _ 28条 _ 俄乌战争 _ 泽连斯基\\E210 特朗普突发背刺乌克兰, 还有人认为这要“联俄抗中”吗_  (讲解27分钟)  _ 透明茶室 • 分析线 _ 28条 _ 俄乌战争 _ 泽连斯基_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 4446.8535,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 149,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:23:50"
+}

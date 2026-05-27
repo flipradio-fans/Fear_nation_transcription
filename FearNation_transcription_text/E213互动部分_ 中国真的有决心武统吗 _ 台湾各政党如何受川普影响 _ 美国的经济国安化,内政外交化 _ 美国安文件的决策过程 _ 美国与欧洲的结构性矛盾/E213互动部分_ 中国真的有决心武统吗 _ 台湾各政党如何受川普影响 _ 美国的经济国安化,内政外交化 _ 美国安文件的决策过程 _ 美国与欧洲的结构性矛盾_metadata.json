@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "8uXhDhB3i9M",
+    "title": "E213互动部分: 中国真的有决心武统吗 / 台湾各政党如何受川普影响 / 美国的经济国安化,内政外交化 / 美国安文件的决策过程 / 美国与欧洲的结构性矛盾",
+    "url": "https://www.youtube.com/watch?v=8uXhDhB3i9M",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E213互动部分: 中国真的有决心武统吗 / 台湾各政党如何受川普影响 / 美国的经济国安化,内政外交化 / 美国安文件的决策过程 / 美国与欧洲的结构性矛盾",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:09:47",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E213互动部分_ 中国真的有决心武统吗 _ 台湾各政党如何受川普影响 _ 美国的经济国安化,内政外交化 _ 美国安文件的决策过程 _ 美国与欧洲的结构性矛盾",
+    "file_stem": "E213互动部分_ 中国真的有决心武统吗 _ 台湾各政党如何受川普影响 _ 美国的经济国安化,内政外交化 _ 美国安文件的决策过程 _ 美国与欧洲的结构性矛盾"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:17:25",
+  "download": {
+    "id": "8uXhDhB3i9M",
+    "title": "E213互动部分: 中国真的有决心武统吗 / 台湾各政党如何受川普影响 / 美国的经济国安化,内政外交化 / 美国安文件的决策过程 / 美国与欧洲的结构性矛盾",
+    "webpage_url": "https://www.youtube.com/watch?v=8uXhDhB3i9M",
+    "duration": 4187,
+    "upload_date": "20251209",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E213互动部分_ 中国真的有决心武统吗 _ 台湾各政党如何受川普影响 _ 美国的经济国安化,内政外交化 _ 美国安文件的决策过程 _ 美国与欧洲的结构性矛盾\\E213互动部分_ 中国真的有决心武统吗 _ 台湾各政党如何受川普影响 _ 美国的经济国安化,内政外交化 _ 美国安文件的决策过程 _ 美国与欧洲的结构性矛盾_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 4186.56,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 140,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:25:37"
+}

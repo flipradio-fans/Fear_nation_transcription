@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "b6tX60KWtGE",
+    "title": "China's employment situation is in dire straits; unemployment rate may spiral out of control in t...",
+    "url": "https://www.youtube.com/watch?v=b6tX60KWtGE",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "China's employment situation is in dire straits; unemployment rate may spiral out of control in t...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "41:18",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "China's employment situation is in dire straits; unemployment rate may spiral ou",
+    "file_stem": "China's employment situation is in dire straits; unemployment rate may spiral ou"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 12:41:26",
+  "download": {
+    "id": "b6tX60KWtGE",
+    "title": "中国就业大盘告急, 未来五年失业率恐失控 • 韧性下的脆弱 • 经济连续剧 | 审时煮茶",
+    "webpage_url": "https://www.youtube.com/watch?v=b6tX60KWtGE",
+    "duration": 2478,
+    "upload_date": "20260415",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\China's employment situation is in dire straits; unemployment rate may spiral ou\\China's employment situation is in dire straits; unemployment rate may spiral ou_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2477.888,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 89,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 12:46:03"
+}

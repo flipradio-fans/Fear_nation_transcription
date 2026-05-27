@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "tEchbaV87So",
+    "title": "E232 Interactive Section: Will the Iran War Benefit Coal-fired Power or New Energy? / Why Does th...",
+    "url": "https://www.youtube.com/watch?v=tEchbaV87So",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E232 Interactive Section: Will the Iran War Benefit Coal-fired Power or New Energy? / Why Does th...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "26:50",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E232 Interactive Section_ Will the Iran War Benefit Coal-fired Power or New Ener",
+    "file_stem": "E232 Interactive Section_ Will the Iran War Benefit Coal-fired Power or New Ener"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 12:46:03",
+  "download": {
+    "id": "tEchbaV87So",
+    "title": "E232 互动部分: 伊朗战争到底利好煤电还是新能源？ / 美国坐拥全球第一煤炭储量为何不用？ / 视频号经济课贩卖的是认知还是民族情绪 / 墨西哥是不是中国企业出海的新跳板",
+    "webpage_url": "https://www.youtube.com/watch?v=tEchbaV87So",
+    "duration": 1609,
+    "upload_date": "20260414",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E232 Interactive Section_ Will the Iran War Benefit Coal-fired Power or New Ener\\E232 Interactive Section_ Will the Iran War Benefit Coal-fired Power or New Ener_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1609.1080625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 55,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 12:48:59"
+}

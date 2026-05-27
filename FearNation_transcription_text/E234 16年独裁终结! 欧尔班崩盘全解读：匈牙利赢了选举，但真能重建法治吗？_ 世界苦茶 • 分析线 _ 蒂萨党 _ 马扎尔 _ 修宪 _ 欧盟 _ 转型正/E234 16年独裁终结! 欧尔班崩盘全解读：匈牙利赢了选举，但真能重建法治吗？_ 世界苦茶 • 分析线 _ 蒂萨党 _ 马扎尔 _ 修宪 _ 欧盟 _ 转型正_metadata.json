@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "S-P816IKDdg",
+    "title": "E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？| 世界苦茶 • 分析线 | 蒂萨党 | 马扎尔 | 修宪 | 欧盟 | 转型正义",
+    "url": "https://www.youtube.com/watch?v=S-P816IKDdg",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？| 世界苦茶 • 分析线 | 蒂萨党 | 马扎尔 | 修宪 | 欧盟 | 转型正义",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "35:01",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？_ 世界苦茶 • 分析线 _ 蒂萨党 _ 马扎尔 _ 修宪 _ 欧盟 _ 转型正",
+    "file_stem": "E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？_ 世界苦茶 • 分析线 _ 蒂萨党 _ 马扎尔 _ 修宪 _ 欧盟 _ 转型正"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 12:32:37",
+  "download": {
+    "id": "S-P816IKDdg",
+    "title": "E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？| 世界苦茶 • 分析线 | 蒂萨党 | 马扎尔 | 修宪 | 欧盟 | 转型正义",
+    "webpage_url": "https://www.youtube.com/watch?v=S-P816IKDdg",
+    "duration": 2101,
+    "upload_date": "20260422",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？_ 世界苦茶 • 分析线 _ 蒂萨党 _ 马扎尔 _ 修宪 _ 欧盟 _ 转型正\\E234 16年独裁终结! 欧尔班崩盘全解读：匈牙利赢了选举，但真能重建法治吗？_ 世界苦茶 • 分析线 _ 蒂萨党 _ 马扎尔 _ 修宪 _ 欧盟 _ 转型正_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2100.477125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 75,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 12:37:10"
+}

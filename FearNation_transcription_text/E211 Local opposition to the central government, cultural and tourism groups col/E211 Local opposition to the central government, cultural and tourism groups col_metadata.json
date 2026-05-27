@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "3ZVbezEna08",
+    "title": "E211 Local opposition to the central government, cultural and tourism groups collectively surge i...",
+    "url": "https://www.youtube.com/watch?v=3ZVbezEna08",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E211 Local opposition to the central government, cultural and tourism groups collectively surge i...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "38:43",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E211 Local opposition to the central government, cultural and tourism groups col",
+    "file_stem": "E211 Local opposition to the central government, cultural and tourism groups col"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:52:53",
+  "download": {
+    "id": "3ZVbezEna08",
+    "title": "E211 地方反对中央, 文旅集体冲塔涨粉百万, 中国人是极权天然臣民吗?  | 透明茶室 • 分析线 | 治安处罚法 | 禁毒 | 权贵",
+    "webpage_url": "https://www.youtube.com/watch?v=3ZVbezEna08",
+    "duration": 2322,
+    "upload_date": "20251202",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E211 Local opposition to the central government, cultural and tourism groups col\\E211 Local opposition to the central government, cultural and tourism groups col_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2322.1231875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 78,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:58:06"
+}

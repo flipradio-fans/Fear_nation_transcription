@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "77TlcERmaxA",
+    "title": "E230: Strong Q1 Economic Data? Has China Returned to a Large-Scale Infrastructure Era? Tactical R...",
+    "url": "https://www.youtube.com/watch?v=77TlcERmaxA",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E230: Strong Q1 Economic Data? Has China Returned to a Large-Scale Infrastructure Era? Tactical R...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "26:59",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E230_ Strong Q1 Economic Data_ Has China Returned to a Large-Scale Infrastructur",
+    "file_stem": "E230_ Strong Q1 Economic Data_ Has China Returned to a Large-Scale Infrastructur"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:26:21",
+  "download": {
+    "id": "77TlcERmaxA",
+    "title": "E230 一季度经济数据亮眼? 中国其实又走回大基建时代, 战术后撤还是饮鸩止渴 | 透明茶室 • 分析线 | 设备以旧换新 | 专项债 | 房地产｜特别国债",
+    "webpage_url": "https://www.youtube.com/watch?v=77TlcERmaxA",
+    "duration": 1618,
+    "upload_date": "20260331",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E230_ Strong Q1 Economic Data_ Has China Returned to a Large-Scale Infrastructur\\E230_ Strong Q1 Economic Data_ Has China Returned to a Large-Scale Infrastructur_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1617.984,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 55,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:29:38"
+}

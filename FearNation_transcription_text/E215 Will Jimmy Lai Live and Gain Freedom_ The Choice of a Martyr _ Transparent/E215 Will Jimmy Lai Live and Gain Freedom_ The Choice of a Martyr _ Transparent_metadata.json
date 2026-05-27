@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "cfebN3PPGY0",
+    "title": "E215 Will Jimmy Lai Live and Gain Freedom? The Choice of a Martyr | Transparent Tea Room • Analys...",
+    "url": "https://www.youtube.com/watch?v=cfebN3PPGY0",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E215 Will Jimmy Lai Live and Gain Freedom? The Choice of a Martyr | Transparent Tea Room • Analys...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "32:16",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E215 Will Jimmy Lai Live and Gain Freedom_ The Choice of a Martyr _ Transparent",
+    "file_stem": "E215 Will Jimmy Lai Live and Gain Freedom_ The Choice of a Martyr _ Transparent"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:58:10",
+  "download": {
+    "id": "cfebN3PPGY0",
+    "title": "E215 黎智英还能活着得到自由吗? 一位殉道者的选择 | 透明茶室 • 分析线 | 国安法 | 苹果日报 | 香港｜反修例运动",
+    "webpage_url": "https://www.youtube.com/watch?v=cfebN3PPGY0",
+    "duration": 1935,
+    "upload_date": "20251216",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E215 Will Jimmy Lai Live and Gain Freedom_ The Choice of a Martyr _ Transparent\\E215 Will Jimmy Lai Live and Gain Freedom_ The Choice of a Martyr _ Transparent_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1935.0116875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 68,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:02:25"
+}

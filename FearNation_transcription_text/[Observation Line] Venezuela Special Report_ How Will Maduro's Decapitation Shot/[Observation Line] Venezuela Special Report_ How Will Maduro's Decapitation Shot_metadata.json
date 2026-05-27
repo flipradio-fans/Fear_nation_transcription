@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "_MA-QelLF0Y",
+    "title": "[Observation Line] Venezuela Special Report: How Will Maduro's Decapitation Shot Affect China?",
+    "url": "https://www.youtube.com/watch?v=_MA-QelLF0Y",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Venezuela Special Report: How Will Maduro's Decapitation Shot Affect China?",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "35:20",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Venezuela Special Report_ How Will Maduro's Decapitation Shot",
+    "file_stem": "[Observation Line] Venezuela Special Report_ How Will Maduro's Decapitation Shot"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:54:52",
+  "download": {
+    "id": "_MA-QelLF0Y",
+    "title": "［ 观察线 ］委内瑞拉专题, 马杜罗斩首如何影响中国 ?",
+    "webpage_url": "https://www.youtube.com/watch?v=_MA-QelLF0Y",
+    "duration": 2120,
+    "upload_date": "20260112",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Venezuela Special Report_ How Will Maduro's Decapitation Shot\\[Observation Line] Venezuela Special Report_ How Will Maduro's Decapitation Shot_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2119.7264375,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 140,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:59:38"
+}

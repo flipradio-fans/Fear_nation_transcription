@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "L77MktFjn_I",
+    "title": "Reuters' \"Manhattan Project\" E216 Reveals: Can China Debunk the Industrial Myth of EUV? | Transpa...",
+    "url": "https://www.youtube.com/watch?v=L77MktFjn_I",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "Reuters' \"Manhattan Project\" E216 Reveals: Can China Debunk the Industrial Myth of EUV? | Transpa...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "24:47",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "Reuters' _Manhattan Project_ E216 Reveals_ Can China Debunk the Industrial Myth",
+    "file_stem": "Reuters' _Manhattan Project_ E216 Reveals_ Can China Debunk the Industrial Myth"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:35:51",
+  "download": {
+    "id": "L77MktFjn_I",
+    "title": "E216 路透“曼哈顿计划”爆料, 中国能戳破EUV的工业神话吗? | 透明茶室 • 分析线 | ASML | 华为 | 光刻机｜芯片 | AI",
+    "webpage_url": "https://www.youtube.com/watch?v=L77MktFjn_I",
+    "duration": 1487,
+    "upload_date": "20251219",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\Reuters' _Manhattan Project_ E216 Reveals_ Can China Debunk the Industrial Myth\\Reuters' _Manhattan Project_ E216 Reveals_ Can China Debunk the Industrial Myth_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1486.72725,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 50,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:39:07"
+}

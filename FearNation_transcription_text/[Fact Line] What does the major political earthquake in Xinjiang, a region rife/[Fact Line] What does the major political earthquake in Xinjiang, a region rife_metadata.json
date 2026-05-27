@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "SxWkj6EW7ps",
+    "title": "[Fact Line] What does the major political earthquake in Xinjiang, a region rife with trouble, sig...",
+    "url": "https://www.youtube.com/watch?v=SxWkj6EW7ps",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Fact Line] What does the major political earthquake in Xinjiang, a region rife with trouble, sig...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "19:02",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Fact Line] What does the major political earthquake in Xinjiang, a region rife",
+    "file_stem": "[Fact Line] What does the major political earthquake in Xinjiang, a region rife"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:41:55",
+  "download": {
+    "id": "SxWkj6EW7ps",
+    "title": "［ 事实线 ］多事之地, 新疆官场大地震说明什么? 副国级马兴瑞神秘缺席，浙江帮陈伟俊突然落马",
+    "webpage_url": "https://www.youtube.com/watch?v=SxWkj6EW7ps",
+    "duration": 1141,
+    "upload_date": "20251204",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Fact Line] What does the major political earthquake in Xinjiang, a region rife\\[Fact Line] What does the major political earthquake in Xinjiang, a region rife_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1141.075,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 60,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:44:32"
+}

@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "Yd7ebL1Fpxk",
+    "title": "[Observation Line] Technological Development on One Side, Debt Crisis on the Other: What's the St...",
+    "url": "https://www.youtube.com/watch?v=Yd7ebL1Fpxk",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Technological Development on One Side, Debt Crisis on the Other: What's the St...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "48:06",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Technological Development on One Side, Debt Crisis on the Oth",
+    "file_stem": "[Observation Line] Technological Development on One Side, Debt Crisis on the Oth"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:53:40",
+  "download": {
+    "id": "Yd7ebL1Fpxk",
+    "title": "［ 观察线 ］一边科技发展, 一边债务危机, 中国经济到底如何?  | 中美贸易战 | 一带一路 | 新质生产力",
+    "webpage_url": "https://www.youtube.com/watch?v=Yd7ebL1Fpxk",
+    "duration": 2885,
+    "upload_date": "20251117",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Technological Development on One Side, Debt Crisis on the Oth\\[Observation Line] Technological Development on One Side, Debt Crisis on the Oth_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2885.2186875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 160,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 18:00:00"
+}

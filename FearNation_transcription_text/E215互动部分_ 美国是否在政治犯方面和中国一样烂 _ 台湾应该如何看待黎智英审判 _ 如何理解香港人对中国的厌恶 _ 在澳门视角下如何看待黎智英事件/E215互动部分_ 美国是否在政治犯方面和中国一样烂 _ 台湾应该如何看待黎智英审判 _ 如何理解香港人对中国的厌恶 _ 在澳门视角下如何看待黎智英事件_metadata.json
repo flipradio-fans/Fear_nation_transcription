@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "6FLoIE8MsaI",
+    "title": "E215互动部分: 美国是否在政治犯方面和中国一样烂 / 台湾应该如何看待黎智英审判 / 如何理解香港人对中国的厌恶 / 在澳门视角下如何看待黎智英事件",
+    "url": "https://www.youtube.com/watch?v=6FLoIE8MsaI",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E215互动部分: 美国是否在政治犯方面和中国一样烂 / 台湾应该如何看待黎智英审判 / 如何理解香港人对中国的厌恶 / 在澳门视角下如何看待黎智英事件",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:10:00",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E215互动部分_ 美国是否在政治犯方面和中国一样烂 _ 台湾应该如何看待黎智英审判 _ 如何理解香港人对中国的厌恶 _ 在澳门视角下如何看待黎智英事件",
+    "file_stem": "E215互动部分_ 美国是否在政治犯方面和中国一样烂 _ 台湾应该如何看待黎智英审判 _ 如何理解香港人对中国的厌恶 _ 在澳门视角下如何看待黎智英事件"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:50:13",
+  "download": {
+    "id": "6FLoIE8MsaI",
+    "title": "E215互动部分: 美国是否在政治犯方面和中国一样烂 / 台湾应该如何看待黎智英审判 / 如何理解香港人对中国的厌恶 / 在澳门视角下如何看待黎智英事件",
+    "webpage_url": "https://www.youtube.com/watch?v=6FLoIE8MsaI",
+    "duration": 4199,
+    "upload_date": "20251216",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E215互动部分_ 美国是否在政治犯方面和中国一样烂 _ 台湾应该如何看待黎智英审判 _ 如何理解香港人对中国的厌恶 _ 在澳门视角下如何看待黎智英事件\\E215互动部分_ 美国是否在政治犯方面和中国一样烂 _ 台湾应该如何看待黎智英审判 _ 如何理解香港人对中国的厌恶 _ 在澳门视角下如何看待黎智英事件_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 4199.232,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 141,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:58:09"
+}

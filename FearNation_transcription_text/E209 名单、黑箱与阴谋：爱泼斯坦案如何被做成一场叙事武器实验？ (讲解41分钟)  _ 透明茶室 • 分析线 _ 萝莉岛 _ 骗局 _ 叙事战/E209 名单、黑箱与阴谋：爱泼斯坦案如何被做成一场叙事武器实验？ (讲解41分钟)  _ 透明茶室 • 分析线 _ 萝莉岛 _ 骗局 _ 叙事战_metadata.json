@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "5fAHhy16C0I",
+    "title": "E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  | 透明茶室 • 分析线 | 萝莉岛 | 骗局 | 叙事战",
+    "url": "https://www.youtube.com/watch?v=5fAHhy16C0I",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  | 透明茶室 • 分析线 | 萝莉岛 | 骗局 | 叙事战",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:04:10",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  _ 透明茶室 • 分析线 _ 萝莉岛 _ 骗局 _ 叙事战",
+    "file_stem": "E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  _ 透明茶室 • 分析线 _ 萝莉岛 _ 骗局 _ 叙事战"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:30:01",
+  "download": {
+    "id": "5fAHhy16C0I",
+    "title": "E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  | 透明茶室 • 分析线 | 萝莉岛 | 骗局 | 叙事战",
+    "webpage_url": "https://www.youtube.com/watch?v=5fAHhy16C0I",
+    "duration": 3850,
+    "upload_date": "20251121",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  _ 透明茶室 • 分析线 _ 萝莉岛 _ 骗局 _ 叙事战\\E209 名单、黑箱与阴谋：爱泼斯坦案如何被做成一场叙事武器实验？ (讲解41分钟)  _ 透明茶室 • 分析线 _ 萝莉岛 _ 骗局 _ 叙事战_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3849.589875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 132,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:37:53"
+}

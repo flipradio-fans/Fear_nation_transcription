@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "taMkuBAbLdk",
+    "title": "[Observation Line] How do foreign media view the sudden diplomatic conflict between China and Jap...",
+    "url": "https://www.youtube.com/watch?v=taMkuBAbLdk",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] How do foreign media view the sudden diplomatic conflict between China and Jap...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "46:17",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] How do foreign media view the sudden diplomatic conflict betw",
+    "file_stem": "[Observation Line] How do foreign media view the sudden diplomatic conflict betw"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:04:15",
+  "download": {
+    "id": "taMkuBAbLdk",
+    "title": "［ 观察线 ］外媒如何看待中日突然的外交热战? 以及中国顺差的威力和AI泡沫  | 无人机 | 高市早苗 | 薛剑",
+    "webpage_url": "https://www.youtube.com/watch?v=taMkuBAbLdk",
+    "duration": 2776,
+    "upload_date": "20251128",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] How do foreign media view the sudden diplomatic conflict betw\\[Observation Line] How do foreign media view the sudden diplomatic conflict betw_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2776.317125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 183,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:10:36"
+}

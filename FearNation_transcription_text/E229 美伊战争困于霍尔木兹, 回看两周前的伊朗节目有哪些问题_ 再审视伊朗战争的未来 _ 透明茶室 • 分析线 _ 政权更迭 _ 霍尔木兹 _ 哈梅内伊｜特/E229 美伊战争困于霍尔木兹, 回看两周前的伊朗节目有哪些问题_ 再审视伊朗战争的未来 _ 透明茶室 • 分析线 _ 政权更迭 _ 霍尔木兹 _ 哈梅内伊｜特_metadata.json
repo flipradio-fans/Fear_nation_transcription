@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "lCwJBC_iLjk",
+    "title": "E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题? 再审视伊朗战争的未来 | 透明茶室 • 分析线 | 政权更迭 | 霍尔木兹 | 哈梅内伊｜特朗普",
+    "url": "https://www.youtube.com/watch?v=lCwJBC_iLjk",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题? 再审视伊朗战争的未来 | 透明茶室 • 分析线 | 政权更迭 | 霍尔木兹 | 哈梅内伊｜特朗普",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "30:57",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题_ 再审视伊朗战争的未来 _ 透明茶室 • 分析线 _ 政权更迭 _ 霍尔木兹 _ 哈梅内伊｜特",
+    "file_stem": "E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题_ 再审视伊朗战争的未来 _ 透明茶室 • 分析线 _ 政权更迭 _ 霍尔木兹 _ 哈梅内伊｜特"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:29:38",
+  "download": {
+    "id": "lCwJBC_iLjk",
+    "title": "E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题? 再审视伊朗战争的未来 | 透明茶室 • 分析线 | 政权更迭 | 霍尔木兹 | 哈梅内伊｜特朗普",
+    "webpage_url": "https://www.youtube.com/watch?v=lCwJBC_iLjk",
+    "duration": 1856,
+    "upload_date": "20260326",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题_ 再审视伊朗战争的未来 _ 透明茶室 • 分析线 _ 政权更迭 _ 霍尔木兹 _ 哈梅内伊｜特\\E229 美伊战争困于霍尔木兹, 回看两周前的伊朗节目有哪些问题_ 再审视伊朗战争的未来 _ 透明茶室 • 分析线 _ 政权更迭 _ 霍尔木兹 _ 哈梅内伊｜特_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 1856.040625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 66,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:33:30"
+}

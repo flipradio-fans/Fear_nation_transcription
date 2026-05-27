@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "OMB66nAVq5Y",
+    "title": "E228 伊朗战争何时结束? 以天计还是打到三战? 美国地缘是胜是败? | 透明茶室 • 分析线 | 霍尔木兹 | 萨德 | 哈梅内伊｜特朗普",
+    "url": "https://www.youtube.com/watch?v=OMB66nAVq5Y",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E228 伊朗战争何时结束? 以天计还是打到三战? 美国地缘是胜是败? | 透明茶室 • 分析线 | 霍尔木兹 | 萨德 | 哈梅内伊｜特朗普",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "52:15",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E228 伊朗战争何时结束_ 以天计还是打到三战_ 美国地缘是胜是败_ _ 透明茶室 • 分析线 _ 霍尔木兹 _ 萨德 _ 哈梅内伊｜特朗普",
+    "file_stem": "E228 伊朗战争何时结束_ 以天计还是打到三战_ 美国地缘是胜是败_ _ 透明茶室 • 分析线 _ 霍尔木兹 _ 萨德 _ 哈梅内伊｜特朗普"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:33:31",
+  "download": {
+    "id": "OMB66nAVq5Y",
+    "title": "E228 伊朗战争何时结束? 以天计还是打到三战? 美国地缘是胜是败? | 透明茶室 • 分析线 | 霍尔木兹 | 萨德 | 哈梅内伊｜特朗普",
+    "webpage_url": "https://www.youtube.com/watch?v=OMB66nAVq5Y",
+    "duration": 3134,
+    "upload_date": "20260310",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E228 伊朗战争何时结束_ 以天计还是打到三战_ 美国地缘是胜是败_ _ 透明茶室 • 分析线 _ 霍尔木兹 _ 萨德 _ 哈梅内伊｜特朗普\\E228 伊朗战争何时结束_ 以天计还是打到三战_ 美国地缘是胜是败_ _ 透明茶室 • 分析线 _ 霍尔木兹 _ 萨德 _ 哈梅内伊｜特朗普_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3134.008875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 105,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:40:21"
+}

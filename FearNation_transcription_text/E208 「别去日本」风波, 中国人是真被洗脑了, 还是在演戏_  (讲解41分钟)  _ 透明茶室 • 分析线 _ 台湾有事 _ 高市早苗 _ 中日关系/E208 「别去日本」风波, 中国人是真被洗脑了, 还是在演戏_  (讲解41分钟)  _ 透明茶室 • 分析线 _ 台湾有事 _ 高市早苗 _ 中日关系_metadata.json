@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "FKAqu5HkDcs",
+    "title": "E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏?  (讲解41分钟)  | 透明茶室 • 分析线 | 台湾有事 | 高市早苗 | 中日关系",
+    "url": "https://www.youtube.com/watch?v=FKAqu5HkDcs",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏?  (讲解41分钟)  | 透明茶室 • 分析线 | 台湾有事 | 高市早苗 | 中日关系",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "01:28:52",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏_  (讲解41分钟)  _ 透明茶室 • 分析线 _ 台湾有事 _ 高市早苗 _ 中日关系",
+    "file_stem": "E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏_  (讲解41分钟)  _ 透明茶室 • 分析线 _ 台湾有事 _ 高市早苗 _ 中日关系"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 17:42:44",
+  "download": {
+    "id": "FKAqu5HkDcs",
+    "title": "E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏?  (讲解41分钟)  | 透明茶室 • 分析线 | 台湾有事 | 高市早苗 | 中日关系",
+    "webpage_url": "https://www.youtube.com/watch?v=FKAqu5HkDcs",
+    "duration": 5331,
+    "upload_date": "20251118",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏_  (讲解41分钟)  _ 透明茶室 • 分析线 _ 台湾有事 _ 高市早苗 _ 中日关系\\E208 「别去日本」风波, 中国人是真被洗脑了, 还是在演戏_  (讲解41分钟)  _ 透明茶室 • 分析线 _ 台湾有事 _ 高市早苗 _ 中日关系_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 5331.301625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 185,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:53:38"
+}

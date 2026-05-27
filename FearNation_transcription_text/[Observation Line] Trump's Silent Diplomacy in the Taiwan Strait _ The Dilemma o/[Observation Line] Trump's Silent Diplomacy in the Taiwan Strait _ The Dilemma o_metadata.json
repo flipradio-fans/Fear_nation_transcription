@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "FqDB3eburu0",
+    "title": "[Observation Line] Trump's Silent Diplomacy in the Taiwan Strait / The Dilemma of the Western Rar...",
+    "url": "https://www.youtube.com/watch?v=FqDB3eburu0",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Trump's Silent Diplomacy in the Taiwan Strait / The Dilemma of the Western Rar...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "47:51",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Trump's Silent Diplomacy in the Taiwan Strait _ The Dilemma o",
+    "file_stem": "[Observation Line] Trump's Silent Diplomacy in the Taiwan Strait _ The Dilemma o"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:30:03",
+  "download": {
+    "id": "FqDB3eburu0",
+    "title": "［ 观察线 ］川普台海沉默外交 / 西方稀土圣战的困境 / 中国服务业的崩盘",
+    "webpage_url": "https://www.youtube.com/watch?v=FqDB3eburu0",
+    "duration": 2871,
+    "upload_date": "20251208",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Trump's Silent Diplomacy in the Taiwan Strait _ The Dilemma o\\[Observation Line] Trump's Silent Diplomacy in the Taiwan Strait _ The Dilemma o_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2870.7178125,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 190,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:36:38"
+}

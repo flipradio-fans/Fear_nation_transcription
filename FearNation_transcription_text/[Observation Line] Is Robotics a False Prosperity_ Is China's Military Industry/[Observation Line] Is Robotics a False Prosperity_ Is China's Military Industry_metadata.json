@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "lbuw1Oa-gN4",
+    "title": "[Observation Line] Is Robotics a False Prosperity? Is China's Military Industry a Real Threat? Th...",
+    "url": "https://www.youtube.com/watch?v=lbuw1Oa-gN4",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] Is Robotics a False Prosperity? Is China's Military Industry a Real Threat? Th...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "43:53",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] Is Robotics a False Prosperity_ Is China's Military Industry",
+    "file_stem": "[Observation Line] Is Robotics a False Prosperity_ Is China's Military Industry"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:43:25",
+  "download": {
+    "id": "lbuw1Oa-gN4",
+    "title": "［ 观察线 ］机器人是假繁荣？中国军工是真威胁？华尔街与红二代资本的最后博弈",
+    "webpage_url": "https://www.youtube.com/watch?v=lbuw1Oa-gN4",
+    "duration": 2633,
+    "upload_date": "20260114",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] Is Robotics a False Prosperity_ Is China's Military Industry\\[Observation Line] Is Robotics a False Prosperity_ Is China's Military Industry_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2632.4695,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 167,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:49:29"
+}

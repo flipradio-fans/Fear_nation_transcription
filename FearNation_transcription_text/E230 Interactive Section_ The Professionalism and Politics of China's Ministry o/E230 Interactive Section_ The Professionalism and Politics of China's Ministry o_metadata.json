@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "ayDTzi1wXAk",
+    "title": "E230 Interactive Section: The Professionalism and Politics of China's Ministry of Finance / The I...",
+    "url": "https://www.youtube.com/watch?v=ayDTzi1wXAk",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E230 Interactive Section: The Professionalism and Politics of China's Ministry of Finance / The I...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "58:01",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E230 Interactive Section_ The Professionalism and Politics of China's Ministry o",
+    "file_stem": "E230 Interactive Section_ The Professionalism and Politics of China's Ministry o"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:20:07",
+  "download": {
+    "id": "ayDTzi1wXAk",
+    "title": "E230互动部分: 中国财政部的专业性与政治性 / 难以理解的中国大基建项目 / 财政与中国体制改革的关系 / 中国还有技术官僚吗",
+    "webpage_url": "https://www.youtube.com/watch?v=ayDTzi1wXAk",
+    "duration": 3481,
+    "upload_date": "20260402",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E230 Interactive Section_ The Professionalism and Politics of China's Ministry o\\E230 Interactive Section_ The Professionalism and Politics of China's Ministry o_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 3480.450625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 115,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 13:26:20"
+}

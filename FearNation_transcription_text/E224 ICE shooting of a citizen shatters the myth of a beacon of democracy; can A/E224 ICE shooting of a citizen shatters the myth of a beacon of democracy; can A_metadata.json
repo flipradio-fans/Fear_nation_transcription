@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "ScTXaj7wVrU",
+    "title": "E224 ICE shooting of a citizen shatters the myth of a beacon of democracy; can American democracy...",
+    "url": "https://www.youtube.com/watch?v=ScTXaj7wVrU",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E224 ICE shooting of a citizen shatters the myth of a beacon of democracy; can American democracy...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "48:36",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E224 ICE shooting of a citizen shatters the myth of a beacon of democracy; can A",
+    "file_stem": "E224 ICE shooting of a citizen shatters the myth of a beacon of democracy; can A"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:05:02",
+  "download": {
+    "id": "ScTXaj7wVrU",
+    "title": "E224 ICE射杀公民打破民主灯塔神话, 美国的民主还能自我修复吗? | 透明茶室 • 分析线 | 明尼苏达 | DHS | Stephen Miller｜特朗普",
+    "webpage_url": "https://www.youtube.com/watch?v=ScTXaj7wVrU",
+    "duration": 2915,
+    "upload_date": "20260130",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E224 ICE shooting of a citizen shatters the myth of a beacon of democracy; can A\\E224 ICE shooting of a citizen shatters the myth of a beacon of democracy; can A_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2915.1956875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 98,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:11:10"
+}

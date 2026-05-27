@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "mXncGN7oSH8",
+    "title": "[Observation Line] A war in the Taiwan Strait will be unlike any war in the past / Japan, caught ...",
+    "url": "https://www.youtube.com/watch?v=mXncGN7oSH8",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] A war in the Taiwan Strait will be unlike any war in the past / Japan, caught ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "41:09",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] A war in the Taiwan Strait will be unlike any war in the past",
+    "file_stem": "[Observation Line] A war in the Taiwan Strait will be unlike any war in the past"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:44:36",
+  "download": {
+    "id": "mXncGN7oSH8",
+    "title": "［ 观察线 ］台海战争将不像任何过去的战争 / 夹在中美强权间的日本",
+    "webpage_url": "https://www.youtube.com/watch?v=mXncGN7oSH8",
+    "duration": 2468,
+    "upload_date": "20251217",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] A war in the Taiwan Strait will be unlike any war in the past\\[Observation Line] A war in the Taiwan Strait will be unlike any war in the past_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2468.0721875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 155,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:50:11"
+}

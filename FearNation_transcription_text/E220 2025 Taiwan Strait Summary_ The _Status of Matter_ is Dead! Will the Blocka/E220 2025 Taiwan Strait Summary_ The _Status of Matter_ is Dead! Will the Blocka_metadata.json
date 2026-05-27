@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "ZeGKmcrF9i8",
+    "title": "E220 2025 Taiwan Strait Summary: The \"Status of Matter\" is Dead! Will the Blockade Scenario Play ...",
+    "url": "https://www.youtube.com/watch?v=ZeGKmcrF9i8",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E220 2025 Taiwan Strait Summary: The \"Status of Matter\" is Dead! Will the Blockade Scenario Play ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "38:09",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E220 2025 Taiwan Strait Summary_ The _Status of Matter_ is Dead! Will the Blocka",
+    "file_stem": "E220 2025 Taiwan Strait Summary_ The _Status of Matter_ is Dead! Will the Blocka"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 14:32:14",
+  "download": {
+    "id": "ZeGKmcrF9i8",
+    "title": "E220 2025台海大总结：「现状」已死！2027年封锁剧本会上演吗? | 透明茶室 • 分析线 | 红统 | 郑丽文 | 黄国昌｜军演 | 地缘政治",
+    "webpage_url": "https://www.youtube.com/watch?v=ZeGKmcrF9i8",
+    "duration": 2288,
+    "upload_date": "20260116",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E220 2025 Taiwan Strait Summary_ The _Status of Matter_ is Dead! Will the Blocka\\E220 2025 Taiwan Strait Summary_ The _Status of Matter_ is Dead! Will the Blocka_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2288.0246875,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 85,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:37:29"
+}

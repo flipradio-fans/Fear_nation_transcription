@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "u8YzULGWFXI",
+    "title": "E232 Did Trump Save the Chinese and Russian Economies in One Go? The Structural Truth Behind the ...",
+    "url": "https://www.youtube.com/watch?v=u8YzULGWFXI",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E232 Did Trump Save the Chinese and Russian Economies in One Go? The Structural Truth Behind the ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "47:06",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E232 Did Trump Save the Chinese and Russian Economies in One Go_ The Structural",
+    "file_stem": "E232 Did Trump Save the Chinese and Russian Economies in One Go_ The Structural"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 12:49:00",
+  "download": {
+    "id": "u8YzULGWFXI",
+    "title": "E232 特朗普一次救中俄经济？新能源汽车出口狂飙120%的结构性真相 | 透明茶室 • 分析线 | 比亚迪 | 巴基斯坦光伏 | 本地化 | 分配失衡",
+    "webpage_url": "https://www.youtube.com/watch?v=u8YzULGWFXI",
+    "duration": 2826,
+    "upload_date": "20260414",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E232 Did Trump Save the Chinese and Russian Economies in One Go_ The Structural\\E232 Did Trump Save the Chinese and Russian Economies in One Go_ The Structural_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2825.6595,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 95,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 12:54:18"
+}

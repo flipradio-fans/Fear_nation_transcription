@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "6lM__kH36-w",
+    "title": "[Observation Line] China's real estate market continues its downward spiral / US governor may beg...",
+    "url": "https://www.youtube.com/watch?v=6lM__kH36-w",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "[Observation Line] China's real estate market continues its downward spiral / US governor may beg...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "44:09",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "[Observation Line] China's real estate market continues its downward spiral _ US",
+    "file_stem": "[Observation Line] China's real estate market continues its downward spiral _ US"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:58:07",
+  "download": {
+    "id": "6lM__kH36-w",
+    "title": "［ 观察线 ］中国楼市跌跌不休 / 美国州长恐跪求比亚迪建厂 / 中日台海爆发「胆小鬼博弈」",
+    "webpage_url": "https://www.youtube.com/watch?v=6lM__kH36-w",
+    "duration": 2648,
+    "upload_date": "20251201",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\[Observation Line] China's real estate market continues its downward spiral _ US\\[Observation Line] China's real estate market continues its downward spiral _ US_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2648.0849375,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 175,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 17:04:14"
+}

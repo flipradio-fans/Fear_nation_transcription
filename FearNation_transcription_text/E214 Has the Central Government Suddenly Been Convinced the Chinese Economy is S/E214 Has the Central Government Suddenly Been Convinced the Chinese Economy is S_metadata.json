@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "Z_JR68GYMDI",
+    "title": "E214 Has the Central Government Suddenly Been Convinced the Chinese Economy is Sound? Why Such a ...",
+    "url": "https://www.youtube.com/watch?v=Z_JR68GYMDI",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E214 Has the Central Government Suddenly Been Convinced the Chinese Economy is Sound? Why Such a ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "38:27",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E214 Has the Central Government Suddenly Been Convinced the Chinese Economy is S",
+    "file_stem": "E214 Has the Central Government Suddenly Been Convinced the Chinese Economy is S"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 16:12:19",
+  "download": {
+    "id": "Z_JR68GYMDI",
+    "title": "E214 中央突然认为中国经济没问题了? 为何与普通人体感差异如此大? | 透明茶室 • 分析线 | 消费 | 内需 | 房地产｜新质生产力",
+    "webpage_url": "https://www.youtube.com/watch?v=Z_JR68GYMDI",
+    "duration": 2306,
+    "upload_date": "20251212",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E214 Has the Central Government Suddenly Been Convinced the Chinese Economy is S\\E214 Has the Central Government Suddenly Been Convinced the Chinese Economy is S_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2306.0085625,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 81,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 16:17:24"
+}

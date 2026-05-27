@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "OUVEuxWy0fM",
+    "title": "E225 In-Depth: Was Epstein More Than Just a Pimp? Bannon, Israel, and the Black Hole of American ...",
+    "url": "https://www.youtube.com/watch?v=OUVEuxWy0fM",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E225 In-Depth: Was Epstein More Than Just a Pimp? Bannon, Israel, and the Black Hole of American ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "45:34",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E225 In-Depth_ Was Epstein More Than Just a Pimp_ Bannon, Israel, and the Black",
+    "file_stem": "E225 In-Depth_ Was Epstein More Than Just a Pimp_ Bannon, Israel, and the Black"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 13:58:18",
+  "download": {
+    "id": "OUVEuxWy0fM",
+    "title": "E225 深度：爱泼斯坦不仅是皮条客？班农、以色列与美国权力的黑洞 | 透明茶室 • 分析线 | 克林顿 | Steve Bannon | 以色列｜特朗普",
+    "webpage_url": "https://www.youtube.com/watch?v=OUVEuxWy0fM",
+    "duration": 2734,
+    "upload_date": "20260203",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E225 In-Depth_ Was Epstein More Than Just a Pimp_ Bannon, Israel, and the Black\\E225 In-Depth_ Was Epstein More Than Just a Pimp_ Bannon, Israel, and the Black_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2733.632,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 98,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 14:05:02"
+}

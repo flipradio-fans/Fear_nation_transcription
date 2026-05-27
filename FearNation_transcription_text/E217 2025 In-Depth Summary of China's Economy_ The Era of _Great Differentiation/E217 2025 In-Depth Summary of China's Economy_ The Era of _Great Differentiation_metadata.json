@@ -1,0 +1,51 @@
+{
+  "source": {
+    "video_id": "BxuyqDFyme4",
+    "title": "E217 2025 In-Depth Summary of China's Economy: The Era of \"Great Differentiation\" Has Arrived! | ...",
+    "url": "https://www.youtube.com/watch?v=BxuyqDFyme4",
+    "channel_name": "FearNation 世界苦茶",
+    "program_name": "E217 2025 In-Depth Summary of China's Economy: The Era of \"Great Differentiation\" Has Arrived! | ...",
+    "group_name": "FearNation 世界苦茶",
+    "upload_date": "",
+    "duration": "36:35",
+    "status": "待转录"
+  },
+  "output": {
+    "channel_dir": "FearNation 世界苦茶",
+    "program_dir": "E217 2025 In-Depth Summary of China's Economy_ The Era of _Great Differentiation",
+    "file_stem": "E217 2025 In-Depth Summary of China's Economy_ The Era of _Great Differentiation"
+  },
+  "settings": {
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "device": "cuda",
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "keep_audio": false
+  },
+  "started_at": "2026-04-27 15:25:13",
+  "download": {
+    "id": "BxuyqDFyme4",
+    "title": "E217 2025中国经济深度总结, 「大分化」时代来临 !  | 透明茶室 • 分析线 | 城投债 | 房地产 | 顺差｜内需 | 促进消费",
+    "webpage_url": "https://www.youtube.com/watch?v=BxuyqDFyme4",
+    "duration": 2195,
+    "upload_date": "20260106",
+    "uploader": "FearNation 世界苦茶",
+    "channel": "FearNation 世界苦茶"
+  },
+  "audio_path": "output\\default\\FearNation 世界苦茶\\E217 2025 In-Depth Summary of China's Economy_ The Era of _Great Differentiation\\E217 2025 In-Depth Summary of China's Economy_ The Era of _Great Differentiation_audio.webm",
+  "model_info": {
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 2194.76175,
+    "device": "cuda",
+    "compute_type": "float16",
+    "model": "XA9/Belle-faster-whisper-large-v3-zh-punct",
+    "fallback_errors": []
+  },
+  "segment_count": 74,
+  "audio_removed": true,
+  "status": "done",
+  "finished_at": "2026-04-27 15:30:01"
+}
