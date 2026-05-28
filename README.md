@@ -34,6 +34,5 @@ FearNation_transcription_text/
 
 ## 更新日志
 
-- 目前只更新了部分视频的转录文稿。
 - 音频文件已更新到 Hugging Face 数据集：[Pixelber/fear_nation_aduio](https://huggingface.co/datasets/Pixelber/fear_nation_aduio)。
 - 音频数据来源日期截止到 2026 年 5 月 28 日。
